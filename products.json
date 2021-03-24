@@ -1,0 +1,88 @@
+[
+	{
+		"id": 1,
+		"name": "Grand Theft Auto V: Premium Edition",
+		"content": "The Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle includes the complete Grand Theft Auto V story experience, free access to the ever evolving Grand Theft Auto Online and all existing gameplay upgrades and content. You’ll also get the Criminal Enterprise Starter Pack, the fastest way to jumpstart your criminal empire in Grand Theft Auto Online, plus a Great White Shark Cash Card worth **$1,250,000** in-game GTA dollars to spend in GTA Online.",
+		"meta_description": "The Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle",
+		"meta_title": "The Grand Theft Auto V: Premium Edition",
+		"price": 44.99,
+		"slug": "grand-theft-auto-v-premium-edition",
+		"published_at": "2021-03-23T17:45:16.746Z",
+		"created_at": "2021-03-23T17:45:06.718Z",
+		"updated_at": "2021-03-23T17:45:16.778Z",
+		"image": {
+			"id": 1,
+			"name": "gta_v.jpg",
+			"alternativeText": "",
+			"caption": "",
+			"width": 200,
+			"height": 300,
+			"formats": {
+				"thumbnail": {
+					"name": "thumbnail_gta_v.jpg",
+					"hash": "thumbnail_gta_v_b6f4c1b3fa",
+					"ext": ".jpg",
+					"mime": "image/jpeg",
+					"width": 104,
+					"height": 156,
+					"size": 7.67,
+					"path": null,
+					"url": "/uploads/thumbnail_gta_v_b6f4c1b3fa.jpg"
+				}
+			},
+			"hash": "gta_v_b6f4c1b3fa",
+			"ext": ".jpg",
+			"mime": "image/jpeg",
+			"size": 24.51,
+			"url": "/uploads/gta_v_b6f4c1b3fa.jpg",
+			"previewUrl": null,
+			"provider": "local",
+			"provider_metadata": null,
+			"created_at": "2021-03-23T17:42:52.917Z",
+			"updated_at": "2021-03-23T17:42:52.930Z"
+		}
+	},
+	{
+		"id": 2,
+		"name": "Mafia III: Definitive Edition",
+		"content": "Part three of the Mafia crime saga - 1968, New Bordeaux, LA.\nAfter years of combat in Vietnam, Lincoln Clay knows this truth: family isn’t who you’re born with, it’s who you die for. When his surrogate family, the black mob, is betrayed and wiped out by the Italian Mafia, Lincoln builds a new family on the ashes of the old and blazes a path of military-grade revenge through the Mafioso responsible.",
+		"meta_description": "Mafia III: Definitive Edition",
+		"meta_title": "Mafia III: Definitive Edition",
+		"price": 19.99,
+		"slug": "mafia-iii-definitive-edition",
+		"published_at": "2021-03-23T17:48:04.456Z",
+		"created_at": "2021-03-23T17:48:01.620Z",
+		"updated_at": "2021-03-23T17:48:04.492Z",
+		"image": {
+			"id": 2,
+			"name": "mafia_iii.jpg",
+			"alternativeText": "",
+			"caption": "",
+			"width": 200,
+			"height": 300,
+			"formats": {
+				"thumbnail": {
+					"name": "thumbnail_mafia_iii.jpg",
+					"hash": "thumbnail_mafia_iii_8f1fda3652",
+					"ext": ".jpg",
+					"mime": "image/jpeg",
+					"width": 104,
+					"height": 156,
+					"size": 6.54,
+					"path": null,
+					"url": "/uploads/thumbnail_mafia_iii_8f1fda3652.jpg"
+				}
+			},
+			"hash": "mafia_iii_8f1fda3652",
+			"ext": ".jpg",
+			"mime": "image/jpeg",
+			"size": 21.73,
+			"url": "/uploads/mafia_iii_8f1fda3652.jpg",
+			"previewUrl": null,
+			"provider": "local",
+			"provider_metadata": null,
+			"created_at": "2021-03-23T17:46:33.763Z",
+			"updated_at": "2021-03-23T17:46:33.777Z"
+		}
+	}
+]
